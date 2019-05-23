@@ -1,0 +1,5 @@
+set RABBIT_URI=amqp://localhost
+java -jar zipkin-server-2.7.0-exec.jar
+
+
+///to set zipkin to the rabbit Mq
